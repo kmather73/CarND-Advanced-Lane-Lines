@@ -87,6 +87,7 @@ I implemented this step in the "Transform Polynomial back to original image" cel
 
 ### Pipeline (video)
 Here is a link to see the pipline in action
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/x8gCjByQFbI/0.jpg)](https://www.youtube.com/embed/x8gCjByQFbI)
 
 ---
